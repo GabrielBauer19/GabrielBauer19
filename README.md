@@ -61,11 +61,6 @@ const gabriel = {
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielbauer/gabrielbauer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
