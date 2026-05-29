@@ -96,6 +96,6 @@ const gabriel = {
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D1117&height=100&section=footer"/>
 
-<sub>⚡ Feito com 💙 por Gabriel Bauer | Full Stack em formação</sub>
+<sub>⚡ Feito com por Gabriel Bauer | Full Stack em formação</sub>
 
 </div>
