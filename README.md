@@ -22,6 +22,7 @@ const gabriel = {
   paixão:     "Fascinado pela tecnologia ⚡",
   objetivo:   "Construir soluções que fazem a diferença",
   fato_legal: "Une o mundo do hardware com o software 🔌💻"
+  curiosidade: "Amo o bolsonaro de biquíni"
 };
 ```
 
